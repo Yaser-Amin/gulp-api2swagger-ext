@@ -1,0 +1,17 @@
+{
+  "name": "gulp-api2swagger-ext",
+  "version": "0.0.1",
+  "description": "wrapper for api2swagger-ext npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "api2swagger-ext",
+    "swagger",
+    "openapi2"
+  ],
+  "author": "Yaser Amin <yaser.amin.z@gmail.com>",
+  "license": "MIT"
+}
